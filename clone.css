@@ -1,0 +1,135 @@
+
+#top {
+	position: absolute;
+	top: 18px;
+	right: 8px;
+	width: 100%;
+	text-align: right;
+}
+
+#top ul {
+	display: inline-block;
+	list-style: none;
+	margin: 0;
+	padding: .3em;
+}
+
+#top li {
+	float: left;
+	margin-right: 15px;
+}
+
+#top li a {
+	display: block;
+	color: #444;
+	font-family: arial, sans-serif;
+	font-size: .8em;
+	text-decoration: none;
+}
+
+#apps {
+	margin-top: -10px;
+}
+
+#bell {
+	margin-top: -5px;
+}
+
+#me {
+	margin-top: -13px;
+}
+
+#share{
+	background-color: rgba(0, 0, 0, 0.1);
+	padding: 8px 12px;
+	margin-top: -8px;
+}
+
+#center {
+	position: relative;
+	top: 185px;
+}
+
+#box {
+	margin: auto;
+	border: solid 1px;
+	border-color: rgba(0, 0, 0, 0.15);
+	width: 570px; height: 30px;
+}
+
+#logo {
+	
+	width: 269px;
+	text-align: center;
+	margin: auto;
+	margin-bottom: 15px;
+}
+
+#google {
+	width: 269px; height: 95px;
+}
+
+#buttons {
+	width: 250px; height: 50px;
+	margin: auto;
+	top; 50px;
+}
+
+#search, #lucky {
+	height: 27px;
+	position: absolute; top: 165px;
+	background-color: #f5f5f5;
+	border: 1px solid rgba(0, 0, 0, 0.15);
+	border-radius: 2px;
+	font-family: arial, sans-serif;
+	text-align: center;
+	line-height: .5;
+}
+
+#search {	
+	width: 100px;
+}
+
+#lucky	{
+	width: 115px;
+	margin-left: 120px;
+}
+
+p {
+	color: #444;
+	font-size: 11px;
+	font-weight: bold;
+}
+
+#footer {
+	position: absolute;
+	bottom: 0; left: 0;
+	height: 40px; width: 100%;
+	background-color: #f5f5f5;
+	border-top: 1px solid rgba(0, 0, 0, 0.15);
+}
+
+#footer ul {
+	display: inline-block;
+	list-style: none;
+	margin: 0;
+	padding-top: 12px;
+}
+
+#footer li {
+	float: left;
+	margin-right: 25px;
+}
+
+#footer li a{
+	display: block;
+	color: #444;
+	font-family: arial, sans-serif;
+	font-size: .8em;
+	text-decoration: none;
+}
+
+#right {
+	position: absolute;
+	right: 0;
+}
