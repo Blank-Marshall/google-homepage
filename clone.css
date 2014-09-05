@@ -27,6 +27,10 @@
 	text-decoration: none;
 }
 
+#top li a:hover {
+	text-decoration:underline;
+}
+
 #apps {
 	margin-top: -10px;
 }
@@ -129,7 +133,12 @@ p {
 	text-decoration: none;
 }
 
+#footer li a:hover {
+	text-decoration:underline;
+}
+
 #right {
 	position: absolute;
 	right: 0;
 }
+
